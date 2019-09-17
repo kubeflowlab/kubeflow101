@@ -58,7 +58,7 @@
 ### 10.2.	Kubebench的部署
 ### 10.3.	Kubebench的运行与结果
 
-第三部分: Kubeflow应用篇
+# 第三部分: Kubeflow应用篇
 
 ## 第11章	基于Kubeflow的AI Hub
 ### 11.1.	机器学习应用的新模式
